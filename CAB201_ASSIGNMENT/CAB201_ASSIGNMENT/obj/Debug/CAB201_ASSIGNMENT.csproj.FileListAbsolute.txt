@@ -1,0 +1,7 @@
+C:\Users\User\Documents\caab201 assignment\CAB201_ASSIGNMENT\CAB201_ASSIGNMENT\bin\Debug\CAB201_ASSIGNMENT.exe.config
+C:\Users\User\Documents\caab201 assignment\CAB201_ASSIGNMENT\CAB201_ASSIGNMENT\bin\Debug\CAB201_ASSIGNMENT.exe
+C:\Users\User\Documents\caab201 assignment\CAB201_ASSIGNMENT\CAB201_ASSIGNMENT\bin\Debug\CAB201_ASSIGNMENT.pdb
+C:\Users\User\Documents\caab201 assignment\CAB201_ASSIGNMENT\CAB201_ASSIGNMENT\obj\Debug\CAB201_ASSIGNMENT.csprojAssemblyReference.cache
+C:\Users\User\Documents\caab201 assignment\CAB201_ASSIGNMENT\CAB201_ASSIGNMENT\obj\Debug\CAB201_ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\caab201 assignment\CAB201_ASSIGNMENT\CAB201_ASSIGNMENT\obj\Debug\CAB201_ASSIGNMENT.exe
+C:\Users\User\Documents\caab201 assignment\CAB201_ASSIGNMENT\CAB201_ASSIGNMENT\obj\Debug\CAB201_ASSIGNMENT.pdb
